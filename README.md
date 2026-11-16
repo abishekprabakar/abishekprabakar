@@ -9,7 +9,7 @@ I study Computer Science at Georgia Tech with a minor in FinTech, and I graduate
 - 🎓 I'm on the Intelligence and Information Internetworks threads at Georgia Tech.
 - 🛰️ I write embedded software on the GPS subteam of Georgia Tech's Automotive LiDAR VIP.
 - 🔨 I'm currently building Forecast League, a paper forecasting competition for GT students on live Kalshi and Polymarket markets.
-- 🏆 I built Elix at Cal Hacks 13.0, and I've worked on team projects at HackGT and Meta's Closer Together AI Hackathon.
+- 🏆 I was one of 79 people selected for Meta's Closer Together AI Hackathon, drawn from tens of thousands of participants at hackathons like HackGT, HackMIT, Cal Hacks and HackTX. I also built Elix at Cal Hacks 13.0 and worked on Situational Awareness at HackGT.
 - 📬 I'm looking for Spring and Summer 2027 software internships, and email or LinkedIn is the fastest way to reach me.
 
 ## Featured projects
@@ -17,11 +17,11 @@ I study Computer Science at Georgia Tech with a minor in FinTech, and I graduate
 | Project | What it does | Built with |
 |:--|:--|:--|
 | [Elix](https://github.com/abishekprabakar/elix)<br><sub>Cal Hacks 13.0</sub> | Accounts payable for AI agents that pay their own vendors over x402. It checks each payment before it's signed, books it as a balanced journal entry, and flags vendors who bill the same usage twice. In a 90 day synthetic eval it caught all 56 planted anomalies. | Python, FastAPI, React, TypeScript, Claude API |
+| [Hangouts](https://github.com/v1m08/MetaHackathon)<br><sub>Meta Closer Together AI Hackathon, team project</sub> | Group chats that turn into real plans. Meta's Muse model reads what a friend group shares and drops a party game into their Messenger chat, and once most of them have played, it picks a real event that fits the group and sends each person a note to go together. It runs on a full Facebook and Messenger clone. | Next.js, React, TypeScript, Tailwind CSS, Meta Muse |
+| [Situational Awareness](https://github.com/ColinHu07/SituationalAwareness)<br><sub>HackGT, team project</sub> | An opt-in conversation copilot for smart glasses. The glasses show one readable social cue at a time while the phone runs live multi-speaker captions. | iOS, Muse API |
 | [minnow](https://github.com/abishekprabakar/minnow) | A vectorized SQL query engine in Rust on Apache Arrow and Parquet, with a rule-based optimizer and parallel operators. It runs six TPC-H queries at scale factor 1 and matches DuckDB's results exactly, which differential tests and fuzzers check on every run. | Rust, Apache Arrow, Parquet, DuckDB |
 | [ai-excel-copilot](https://github.com/abishekprabakar/ai-excel-copilot) | Ask an Excel workbook questions in plain English and get answers you can audit. Claude plans the answer and writes a program in a small validated IR, which compiles to restricted pandas and runs in a sandbox before anything comes back. | Python, pandas, React, AWS Lambda, Claude API |
 | [ToM Lens](https://github.com/abishekprabakar/ai-tom-lens) | A toolkit for finding where theory of mind lives inside a language model. It generates false-belief stories from a simulator, probes hidden states layer by layer in open models like Qwen3 and DeepSeek-R1-Distill, and compares them in a web viewer. | Python, PyTorch, Hugging Face, Flask |
-| [Hangouts](https://github.com/v1m08/MetaHackathon)<br><sub>Meta Closer Together AI Hackathon, team project</sub> | Group chats that turn into real plans. Meta's Muse model reads what a friend group shares and drops a party game into their Messenger chat, and once most of them have played, it picks a real event that fits the group and sends each person a note to go together. It runs on a full Facebook and Messenger clone. | Next.js, React, TypeScript, Tailwind CSS, Meta Muse |
-| [Situational Awareness](https://github.com/ColinHu07/SituationalAwareness)<br><sub>HackGT, team project</sub> | An opt-in conversation copilot for smart glasses. The glasses show one readable social cue at a time while the phone runs live multi-speaker captions. | iOS, Muse API |
 
 ## Tech stack
 
